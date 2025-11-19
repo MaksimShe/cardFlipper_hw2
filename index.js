@@ -5,7 +5,7 @@ const body = document.querySelector('body');
 
 let hasVolume = false;
 let isBlackThema = false;
-const sound = new Audio('/sound/bmw-bong.mp3');
+const sound = new Audio('./sound/bmw-bong.mp3');
 
 
 const cardImages = {
