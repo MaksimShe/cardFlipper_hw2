@@ -1,14 +1,12 @@
 {
   "name": "cardFlipper_hw2",
   "homepage": "https://MaksimShe.github.io/cardFlipper_hw2",
-
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "your build command",
-    "deploy": "gh-pages -d ."
+    "deploy": "gh-pages -d src"
   },
   "private": true,
   "devDependencies": {

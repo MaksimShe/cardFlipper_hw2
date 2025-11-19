@@ -5,15 +5,15 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-image: url("/images/black_background.png");
+    background-image: url("./images/black_background.png");
     background-size: cover;
     background-position: bottom;
     color: rgba(113, 112, 112, 0.75);
 }
 
 body.dark-mode {
-    background-image: url("/images/black_background.jpg");
-    color: black
+    color: black;
+    background-image: url("./images/black_background.jpg");
 }
 
 body.dark-mode .footer {
